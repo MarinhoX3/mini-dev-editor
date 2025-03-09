@@ -1,0 +1,22 @@
+{
+  "name": "mini-dev-editor",
+  "version": "1.0.0",
+  "description": "Nini editor de código",
+  "main": "main.js",
+  "scripts": {
+    "test": "spectron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarinhoX3/mini-dev-editor.git"
+  },
+  "author": "Adriano Marinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarinhoX3/mini-dev-editor/issues"
+  },
+  "homepage": "https://github.com/MarinhoX3/mini-dev-editor#readme",
+  "devDependencies": {
+    "spectron": "^19.0.0"
+  }
+}
